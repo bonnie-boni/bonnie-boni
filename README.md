@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **machine-learning, computer-vision, data-visualization, data-analytics**
 
-- 📫 How to reach me **gmboni@gmail.com**
+- 📫 How to reach me **xanensismo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
