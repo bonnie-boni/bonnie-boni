@@ -101,29 +101,7 @@ A responsive web application featuring user authentication, database integration
 </div>
 
 <div align="center">
-<svg width="300" height="100" viewBox="0 0 300 100">
-        <style>
-          .snake {
-            fill: none;
-            stroke: #ff4500; /* Orange color for the snake */
-            stroke-width: 2;
-            animation: snakeMove 2s infinite linear;
-          }
-      
-          @keyframes snakeMove {
-            0% {
-              d: path("M 10 50 Q 50 30 90 50 T 170 50 T 250 50");
-            }
-            50% {
-              d: path("M 10 50 Q 50 70 90 50 T 170 50 T 250 50");
-            }
-            100% {
-              d: path("M 10 50 Q 50 30 90 50 T 170 50 T 250 50");
-            }
-          }
-        </style>
-        <path class="snake" d="M 10 50 Q 50 30 90 50 T 170 50 T 250 50" />
-      </svg>
+  Check out my snake game! [Play Here](https://yourusername.github.io/ToDoListApp/)
 </div>
 
 ## 📫 Let's Connect
