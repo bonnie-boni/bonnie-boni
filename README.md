@@ -104,35 +104,9 @@ A responsive web application featuring user authentication, database integration
 <div align="center">
   Here's a playful rotating GitHub logo with twinkling stars to brighten your day! 🌟
 
-  <svg width="200" height="200" viewBox="0 0 200 200">
-    <!-- Starry background -->
-    <style>
-      .stars {
-        fill: #ffffff;
-        opacity: 0.8;
-        animation: twinkle 2s infinite;
-      }
-      .github-logo {
-        fill: #24292e;
-        animation: rotate 5s infinite linear;
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.8; }
-        50% { opacity: 0.3; }
-      }
-      @keyframes rotate {
-        100% { transform: rotate(360deg); }
-      }
-    </style>
-    <!-- Background stars -->
-    <circle class="stars" cx="20" cy="30" r="2"/>
-    <circle class="stars" cx="50" cy="80" r="3"/>
-    <circle class="stars" cx="90" cy="40" r="2"/>
-    <circle class="stars" cx="130" cy="70" r="3"/>
-    <circle class="stars" cx="160" cy="20" r="2"/>
-    <circle class="stars" cx="180" cy="90" r="3"/>
-    <!-- GitHub logo (simplified path) -->
-    <g transform="translate(50, 50) scale(0.5)" class="github-logo">
-      <path d="M128 0C57.3 0 0 57.3 0 128c0 56.6 36.7 104.5 87.5 121.4 6.4 1.2 8.7-2.8 8.7-6.2 0-3.1-.1-11.3-.2-22.2-35.6 7.7-43.1-17.2-43.1-17.2-5.8-14.8-14.2-18.7-14.2-18.7-11.6-7.9.9-7.8.9-7.8 12.8.9 19.6 13.2 19.6 13.2 11.4 19.5 29.9 13.9 37.2 10.6 1.2-8.2 4.5-13.9 8.1-17.1-28.3-3.2-58-14.1-58-63 0-13.9 5-25.2 13.1-34.1-1.3-3.2-5.7-16.1 1.2-33.6 0 0 10.7-3.4 35 13.1 10.2-2.8 21.1-4.2 31.9-4.2 10.8 0 21.7 1.4 31.9 4.2 24.3-16.5 35-13.1 35-13.1 6.9 17.5 2.5 30.4 1.2 33.6 8.1 8.9 13.1 20.2 13.1 34.1 0 49-29.8 59.8-58.2 63 4.6 4 8.7 11.7 8.7 23.6 0 17-.1 30.8-.1 35 0 3.4 2.3 7.5 8.8 6.2C219.3 232.5 256 184.6 256 128 256 57.3 198.7 0 128 0z"/>
-    </g>
-  </svg>
+## ✨ A Fun Touch
+<div align="center">
+  Here's a playful rotating GitHub logo to brighten your day! 🌟
+
+  ![Rotating GitHub Logo](https://github.com/bonnie-boni/bonnie-boni/blob/main/assets/github-logo-animation.gif?raw=true)
+</div>
