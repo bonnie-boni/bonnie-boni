@@ -104,7 +104,6 @@ A responsive web application featuring user authentication, database integration
 <div align="center">
   Here's a playful rotating GitHub logo with twinkling stars to brighten your day! 🌟
 
-  ```html
   <svg width="200" height="200" viewBox="0 0 200 200">
     <!-- Starry background -->
     <style>
