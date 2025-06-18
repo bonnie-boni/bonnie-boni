@@ -3,16 +3,9 @@
   
   🧠 AI Innovator | 📊 Data Storyteller | 🌐 Web Architect
 
-  
-    
-    
-    
-    
-  
 
 
-
-🌟 About Me
+**🌟 About Me**
 Welcome to my digital lab, where AI, data, and web tech collide to create solutions that spark innovation! I’m Bonnie Mboni, a tech explorer crafting intelligent systems, stunning visualizations, and seamless web experiences. From training neural networks to building scalable MERN apps, I’m driven by curiosity and a passion for turning complex problems into elegant code.
 
 🎯 Mission: To code the future, one algorithm at a time.🐾 Fun Fact: My AI model once predicted my coffee addiction with 99% accuracy—now it’s my barista! ☕
