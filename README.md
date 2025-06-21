@@ -11,8 +11,8 @@
 # 🌟 Let's Connect!
 
 LinkedIn <br/>
-Portfolio
-Blog
+Portfolio  <br/>
+Blog <br/>
 
 Thanks for visiting my profile! Feel free to check out my repositories below.
 
