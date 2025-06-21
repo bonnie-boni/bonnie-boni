@@ -10,7 +10,7 @@
 
 # 🌟 Let's Connect!
 
-LinkedIn
+LinkedIn <br/>
 Portfolio
 Blog
 
