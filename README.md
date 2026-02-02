@@ -9,9 +9,9 @@
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Deploying+AI+Systems...;Training+Neural+Networks...;Visualizing+Big+Data...;Optimizing+Payment+Integration...;Building+Future-Tech+Web+Apps...)
 
 
-<a href="https://app.daily.dev/mbonigeorge">
-  <img src="https://api.daily.dev/devcards/v2/86i45FgMso7FgPmYePivk.png?type=wide&r=h6d" width="652" alt="Mboni George's Dev Card"/>
-</a>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
@@ -28,7 +28,10 @@
 </a>
 </p>
 
----
+<a href="https://app.daily.dev/mbonigeorge">
+  <img src="https://api.daily.dev/devcards/v2/86i45FgMso7FgPmYePivk.png?type=wide&r=h6d" width="652" alt="Mboni George's Dev Card"/>
+</a>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -85,7 +88,3 @@
   <br><br>
 </p>
 
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
