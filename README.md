@@ -1,6 +1,6 @@
 <!-- Bonnie Mboni's Futuristic AI GitHub Profile -->
 
-<div align="center">
+<div align="left">
 
 # 🤖 SYSTEM ONLINE: Welcome, Agent Mboni
 
@@ -73,18 +73,25 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-    <a href="https://friendlywatchparty.vercel.app/" target="_blank">
-      <img width="80%" alt="image" src="https://github.com/user-attachments/assets/6cda9085-038c-4963-82ca-d0931c5b4283" />
-    </a>
-    <a href="https://friendlywatchparty.vercel.app/" target="_blank"> Watch Movies with friends </a>
-  <br><br>
 
-  <a href="https://somanami-studybuddy.vercel.app/" target="_blank">
-       <img width="80%" alt="image" src="https://github.com/user-attachments/assets/32fc55d4-36ac-4c13-9649-75be8afdd2f4" />
-      </a>
-  <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> Learn smarter with the AI powered platform </a>
-  
-  <br><br>
-</p>
+<div style="display=block;">
+  <ol>
+    <li>
+      <a href="https://fwatch.vercel.app/" target="_blank"> Watch Movies with friends </a>
+      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/6cda9085-038c-4963-82ca-d0931c5b4283" /> </a>  
+    </li>    
+    <br><br>
+    <li>
+       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> Learn smarter with the AI powered platform </a> </li>
+       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/32fc55d4-36ac-4c13-9649-75be8afdd2f4" /> </a>
+    </li>  
+    <br><br>
+    <li>
+      <a href="https://biblei.vercel.app/" target="_blank"> HIS word is my fountain of Life </a>
+      <a href="https://biblei.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/d7c1f9cd-778b-4eb4-a974-8d3a68ca9550" /> </a>
+    </li>
+    <br><br>
+  </ol>
+
+</div>
 
