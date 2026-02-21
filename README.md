@@ -13,8 +13,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/bonnie-boni/" target="blank">
@@ -32,15 +30,13 @@
   <img src="https://api.daily.dev/devcards/v2/86i45FgMso7FgPmYePivk.png?type=wide&r=h6d" width="652" alt="Mboni George's Dev Card"/>
 </a>
 
+# 📊 GitHub Stats:
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bonnie-boni&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bonnie-boni&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonnie-boni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</p>
+  ![](https://github-readme-stats.vercel.app/api?username=bonnie-boni&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=bonnie-boni&theme=blue-green&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnie-boni&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  [![](https://visitcount.itsvg.in/api?id=bonnie-boni&icon=10&color=0)](https://visitcount.itsvg.in)
 
----
 
 ## 🛠️ Languages & Tools
 <p align="center">
@@ -70,8 +66,6 @@
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 <div style="display=block;">
@@ -94,4 +88,3 @@
   </ol>
 
 </div>
-
