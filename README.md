@@ -2,9 +2,7 @@
 
 <div align="left">
 
-# 🤖 SYSTEM ONLINE: Welcome, Agent Mboni
-
-### `Status: ACTIVE | Clearance Level: ELITE AI ARCHITECT`
+# 🤖 Bonnie Mboni (![](Bonnie-Mboni.vercel.app))
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Deploying+AI+Systems...;Training+Neural+Networks...;Visualizing+Big+Data...;Optimizing+Payment+Integration...;Building+Future-Tech+Web+Apps...)
 
