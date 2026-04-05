@@ -77,12 +77,13 @@
   <ol>
     <li>
       <a href="https://fwatch.vercel.app/" target="_blank"> Watch Movies with friends </a>
-      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/6cda9085-038c-4963-82ca-d0931c5b4283" /> </a>  
+      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/89093075-dfa4-40ab-af73-0c55f24190c0" /> </a>  
     </li>    
     <br><br>
     <li>
        <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> Learn smarter with the AI powered platform </a> </li>
-       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/32fc55d4-36ac-4c13-9649-75be8afdd2f4" /> </a>
+       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1905" height="886" alt="image" src="https://github.com/user-attachments/assets/c3e63ee6-9092-4652-884d-bd9824d191a0" />
+ </a>
     </li>  
     <br><br>
     <li>
