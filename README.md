@@ -28,17 +28,6 @@
   <img src="https://api.daily.dev/devcards/v2/86i45FgMso7FgPmYePivk.png?type=wide&r=h6d" width="652" alt="Mboni George's Dev Card"/>
 </a>
 
-# 📊 GitHub Stats:
-
-  ![](https://github-readme-stats.vercel.app/api?username=bonnie-boni&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=bonnie-boni&theme=blue-green&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bonnie-boni&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-  [![](https://visitcount.itsvg.in/api?id=bonnie-boni&icon=10&color=0)](https://visitcount.itsvg.in)
-
-  <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
 ### 📈 GitHub Activity Graph:
 [![bonnie-boni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bonnie-boni)](https://github.com/bonnie-boni)
 
