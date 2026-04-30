@@ -71,7 +71,8 @@
     <br><br>
     <li>
        <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> Learn smarter with the AI powered platform </a> </li>
-       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1905" height="886" alt="image" src="https://github.com/user-attachments/assets/c3e63ee6-9092-4652-884d-bd9824d191a0" />
+       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/f50b1148-456f-4af6-b3bd-17683cb715d3" />
+
  </a>
     </li>  
     <br><br>
