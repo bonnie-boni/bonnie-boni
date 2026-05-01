@@ -66,7 +66,8 @@
   <ol>
     <li>
       <a href="https://fwatch.vercel.app/" target="_blank"> Watch Movies with friends </a>
-      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1913" height="905" alt="image" src="https://github.com/user-attachments/assets/89093075-dfa4-40ab-af73-0c55f24190c0" /> </a>  
+      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/b52daac7-eaf3-4a0b-b8e4-03fbf38bd9d7" />
+ </a>  
     </li>    
     <br><br>
     <li>
