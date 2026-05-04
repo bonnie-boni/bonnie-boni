@@ -5,6 +5,9 @@
       <h1 align="center">Hello, I'm Bonnie Mboni </h1> 
     </div>
 </div>
+ <a href="https://gitroll.io/profile/uH7800VNIc4WI463AKa6Dfcnl5Iz2" target="_blank">
+     <img src="https://gitroll.io/api/badges/profiles/v1/uH7800VNIc4WI463AKa6Dfcnl5Iz2?theme=dark" alt="GitRoll Profile Badge"/>
+</a>
 <br>
 <div>
 <table border="none" outline="none">
