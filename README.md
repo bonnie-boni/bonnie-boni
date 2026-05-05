@@ -75,29 +75,39 @@
 
 ## 🚀 Featured Projects
 
-<div style="display=block;">
-  <ol>
-    <li>
-      <a href="https://fwatch.vercel.app/" target="_blank"> Watch Movies with friends </a>
-      <a href="https://fwatch.vercel.app/" target="_blank"> <img width="1600" height="748" alt="image" src="https://github.com/user-attachments/assets/b52daac7-eaf3-4a0b-b8e4-03fbf38bd9d7" />
- </a>  
-    </li>    
-    <br><br>
-    <li>
-       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> Learn smarter with the AI powered platform </a> </li>
-       <a href="https://somanami-studybuddy.vercel.app/" target="_blank"> <img width="1919" height="928" alt="image" src="https://github.com/user-attachments/assets/f50b1148-456f-4af6-b3bd-17683cb715d3" />
+<table align="center" width="100%">
+  <!-- Row 1: Habit Tracker and WatchParty -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://bdth.vercel.app/">
+        <b>Habit Tracker</b><br>
+        <img src="https://github.com/user-attachments/assets/c4b72a00-8c72-4320-b104-8ffa5a76f0fb" width="100%" alt="Habit Tracker" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://fwatch.vercel.app/">
+        <b>Watch Movies with friends</b><br>
+        <img src="https://github.com/user-attachments/assets/b52daac7-eaf3-4a0b-b8e4-03fbf38bd9d7" width="100%" alt="WatchParty" />
+      </a>
+    </td>
+  </tr>
+  <!-- Row 2: StudyBuddy and Biblei -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://somanami-studybuddy.vercel.app/">
+        <b>Somanami StudyBuddy (AI Learning)</b><br>
+        <img src="https://github.com/user-attachments/assets/f50b1148-456f-4af6-b3bd-17683cb715d3" width="100%" alt="StudyBuddy" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://biblei.vercel.app/">
+        <b>Biblei - Word of Life</b><br>
+        <img src="https://github.com/user-attachments/assets/d7c1f9cd-778b-4eb4-a974-8d3a68ca9550" width="100%" alt="Biblei" />
+      </a>
+    </td>
+  </tr>
+</table>
 
- </a>
-    </li>  
-    <br><br>
-    <li>
-      <a href="https://biblei.vercel.app/" target="_blank"> HIS word is my fountain of Life </a>
-      <a href="https://biblei.vercel.app/" target="_blank"> <img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/d7c1f9cd-778b-4eb4-a974-8d3a68ca9550" /> </a>
-    </li>
-    <br><br>
-  </ol>
-
-</div>
 
 <h3 align="center">My GitHub & GitRoll Stats</h3>
 
