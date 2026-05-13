@@ -94,8 +94,8 @@
   <!-- Row 2: StudyBuddy and Biblei -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://somanami-studybuddy.vercel.app/">
-        <b>Somanami StudyBuddy (AI Learning)</b><br>
+      <a href="https://somaops.vercel.app/">
+        <b>Somaops StudyBuddy (AI Learning)</b><br>
         <img src="https://github.com/user-attachments/assets/f50b1148-456f-4af6-b3bd-17683cb715d3" width="100%" alt="StudyBuddy" />
       </a>
     </td>
