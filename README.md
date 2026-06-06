@@ -68,8 +68,6 @@
   </tr>
 </table>
 
- ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Deploying+AI+Systems...;Training+Neural+Networks...;Visualizing+Big+Data...;Optimizing+Payment+Integration...;Building+Future-Tech+Web+Apps...)
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -115,7 +113,6 @@
       </td>
   </tr>
 </table>
-
 
 <h3 align="center">My GitHub & GitRoll Stats</h3>
 
