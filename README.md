@@ -2,7 +2,7 @@
 
 <div align="left">
     <div>
-      <h1 align="center">Hello, I'm Bonnie Mboni -- Software Engineer | S.Developer | AI and Machine Learning and Automation Expert | Network Engineer </h1> 
+      <h1 align="center">Hello, I'm Bonnie Mboni (Software Engineer | S.Developer | AI and Machine Learning and Automation Expert | Network Engineer) </h1> 
     </div>
 </div>
  <a href="https://gitroll.io/profile/uH7800VNIc4WI463AKa6Dfcnl5Iz2" target="_blank">
@@ -16,7 +16,6 @@
     <td width="50%" align="center" valign="top">
       <img width="1024" height="1536" alt="918dfc74-a978-460b-9aac-1d6bd622101b" src="https://github.com/user-attachments/assets/28ad0e8f-39f6-4d7b-a616-a876d65e49de" />
     </td>
-    <!-- Right Column: Text and Typing SVG -->
     <td valign="top">
       <h3>Passionate about Open Source • Building, Breaking & Fixing one PR at a time</h3> 
       <a href="https://app.daily.dev/mbonigeorge">
