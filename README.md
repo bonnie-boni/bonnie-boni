@@ -2,7 +2,7 @@
 
 <div align="left">
     <div>
-      <h1 align="center">Hello, I'm Bonnie Mboni (Software Engineer | S.Developer | AI and Machine Learning and Automation Expert | Network Engineer) </h1> 
+      <h1 align="center">Hello, I'm Bonnie Mboni (Software Engineer | S.Developer | AI and Machine Learning and Automation Expert | Network Engineer) | System security Engineer </h1> 
     </div>
 </div>
  <a href="https://gitroll.io/profile/uH7800VNIc4WI463AKa6Dfcnl5Iz2" target="_blank">
