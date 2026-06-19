@@ -147,3 +147,5 @@
 
 [![bonnie-boni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bonnie-boni)](https://github.com/bonnie-boni)
 
+<img width="1448" height="1086" alt="Jun 19, 2026, 10_53_51 PM" src="https://github.com/user-attachments/assets/6ff18d10-93aa-4d58-995f-29edb3337c45" />
+
