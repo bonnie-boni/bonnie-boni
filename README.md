@@ -12,10 +12,6 @@
 <div>
 <table border="none" outline="none">
   <tr>
-    <!-- Left Column: Profile Image -->
-    <td width="50%" align="center" valign="top">
-      <img width="1024" height="1536" alt="918dfc74-a978-460b-9aac-1d6bd622101b" src="https://github.com/user-attachments/assets/28ad0e8f-39f6-4d7b-a616-a876d65e49de" />
-    </td>
     <td valign="top">
       <h3>Passionate about Open Source • Building, Breaking & Fixing one PR at a time</h3> 
       <a href="https://app.daily.dev/mbonigeorge">
@@ -34,6 +30,10 @@
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
           </a>
           </p>
+    </td>
+    <!-- Left Column: Profile Image -->
+    <td width="50%" align="center" valign="top">
+      <img width="1024" height="1536" alt="918dfc74-a978-460b-9aac-1d6bd622101b" src="https://github.com/user-attachments/assets/28ad0e8f-39f6-4d7b-a616-a876d65e49de" />
     </td>
   </tr>
 </table>
@@ -138,6 +138,3 @@
     </td>
   </tr>
 </table>
-
-<img width="1448" height="1086" alt="Jun 19, 2026, 10_53_51 PM" src="https://github.com/user-attachments/assets/6ff18d10-93aa-4d58-995f-29edb3337c45" />
-
