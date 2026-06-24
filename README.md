@@ -137,4 +137,12 @@
       </a>
     </td>
   </tr>
+  <tr>
+       <td width="50%" align="center" valign="top">
+      <a href="https://biblei.vercel.app/](https://plasticrecovery.vercel.app/">
+        <b>Research Project</b><br>
+        <img width="1898" height="927" alt="image" src="https://github.com/user-attachments/assets/5188a2a9-4b05-4cf9-a0e1-5dcac0389b6e" />
+      </a>
+    </td>
+  </tr>
 </table>
