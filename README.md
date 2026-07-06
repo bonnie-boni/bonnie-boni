@@ -1,9 +1,6 @@
 <!-- Bonnie Mboni's Futuristic AI GitHub Profile -->
 
 <div align="left">
-    <div>
-      <h1 align="center"> Software Engineer & Developer | AI and Machine Learning and Automation Expert | Network Engineer | System security Engineer | CCTV AND BIOMETRICS TECHNICIAN </h1> 
-    </div>
     <h3 align="center">My GitHub & GitRoll Stats</h3>
 
 <table align="center" width="100%">
