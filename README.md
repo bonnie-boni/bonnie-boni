@@ -1,3 +1,5 @@
+<img width="1914" height="475" alt="Bonnie Mboni" src="https://github.com/user-attachments/assets/61d875a3-bbfb-4009-8974-7865e96da6fb" />
+
 <!-- Bonnie Mboni's Futuristic AI GitHub Profile -->
 
 <div align="left">
