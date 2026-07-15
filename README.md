@@ -29,54 +29,13 @@
       />
     </td>
     <td width="50%" valign="top">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bonnie-boni&theme=highcontrast"
-        alt="Profile Details"
-        width="100%"
-      />
+        
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     </td>
   </tr>
 </table>
 
 [![bonnie-boni's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bonnie-boni)](https://github.com/bonnie-boni)
-
-</div>
- <a href="https://gitroll.io/profile/uH7800VNIc4WI463AKa6Dfcnl5Iz2" target="_blank">
-     <img src="https://gitroll.io/api/badges/profiles/v1/uH7800VNIc4WI463AKa6Dfcnl5Iz2?theme=dark" alt="GitRoll Profile Badge"/>
-</a>
-<br>
-<div>
-<table border="none" outline="none">
-  <tr>
-    <td valign="top">
-      <h3>Passionate about Open Source • Building, Breaking & Fixing one PR at a time</h3> 
-      <a href="https://app.daily.dev/mbonigeorge">
-        <img src="https://api.daily.dev/devcards/v2/86i45FgMso7FgPmYePivk.png?type=wide&r=h6d" width="652" alt="Mboni George's Dev Card"/>
-      </a>
-      <p>
-         <h3> Connect with Me </h3> 
-          <p align="center" flex="row">
-          <a href="https://www.linkedin.com/in/bonnie-boni/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-          </a>
-          <a href="https://x.com/Bonnie_Mboni/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
-          </a>
-          <a href="https://www.instagram.com/bonniemboni/" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-          </a>
-          </p>
-    </td>
-    <!-- Left Column: Profile Image -->
-    <td width="50%" align="center" valign="top">
-      <img width="1024" height="1536" alt="918dfc74-a978-460b-9aac-1d6bd622101b" src="https://github.com/user-attachments/assets/28ad0e8f-39f6-4d7b-a616-a876d65e49de" />
-    </td>
-  </tr>
-</table>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## Languages & Tools 
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
@@ -103,45 +62,4 @@
     <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
     <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/></a>
 
-## 🚀 Featured Projects
 
-<table align="center" width="100%">
-  <!-- Row 1: Habit Tracker and WatchParty -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://bdth.vercel.app/">
-        <b>Habit Tracker</b><br>
-        <img src="https://github.com/user-attachments/assets/c4b72a00-8c72-4320-b104-8ffa5a76f0fb" width="100%" alt="Habit Tracker" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://fwatch.vercel.app/">
-        <b>Watch Movies with friends</b><br>
-        <img src="https://github.com/user-attachments/assets/b52daac7-eaf3-4a0b-b8e4-03fbf38bd9d7" width="100%" alt="WatchParty" />
-      </a>
-    </td>
-  </tr>
-  <!-- Row 2: StudyBuddy and Biblei -->
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://somaops.vercel.app/">
-        <b>Somaops StudyBuddy (AI Learning)</b><br>
-        <img src="https://github.com/user-attachments/assets/f50b1148-456f-4af6-b3bd-17683cb715d3" width="100%" alt="StudyBuddy" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://biblei.vercel.app/">
-        <b>Biblei - Word of Life</b><br>
-        <img src="https://github.com/user-attachments/assets/d7c1f9cd-778b-4eb4-a974-8d3a68ca9550" width="100%" alt="Biblei" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-       <td width="50%" align="center" valign="top">
-      <a href="https://plasticrecovery.vercel.app/">
-        <b>Research Project</b><br>
-        <img width="1898" height="927" alt="image" src="https://github.com/user-attachments/assets/5188a2a9-4b05-4cf9-a0e1-5dcac0389b6e" />
-      </a>
-    </td>
-  </tr>
-</table>
